@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <!-- If you're using "master" as default branch -->
-![Metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
+![Metrics](https://github.com/ningshixian/ningshixian/blob/master/github-metrics.svg)
+<!-- If you're using "main" as default branch -->
+![Metrics](https://github.com/ningshixian/ningshixian/blob/main/github-metrics.svg)
