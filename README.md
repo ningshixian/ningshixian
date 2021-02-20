@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![Blog Badge](https://img.shields.io/badge/blog-45k%20pageview-brightgreen)](https://ningshixian.github.io/) 
 ---
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
+<img alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
 
 
 <!-- If you're using "main" as default branch -->
