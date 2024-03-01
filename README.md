@@ -1,9 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ning Shixian</h1>
-<h3 align="center">A NLP developer from China. You can find more on my blog site.</h3>
+<h3 align="center">A NLP developer from China. You can find more on my [blog site](https://www.yuque.com/ningshixian/).</h3>
+
+<div align="center">
+  <img alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.leetcode.com/ning shixian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ning shixian" height="30" width="40" /></a>
+[![](https://img.shields.io/badge/--%23000000?style=flat&logo=twitter&logoColor=ffffff)](https://twitter.com/karpathy)
+[![](https://img.shields.io/badge/--%23000000?style=flat&logo=wechat&logoColor=ffffff)]()
+[![](https://img.shields.io/badge/--%23000000?style=flat&logo=zhihu&logoColor=ffffff)](zhihu.com/people/zhu-shi-xian)
+[![](https://img.shields.io/badge/--%23000000?style=flat&logo=rss&logoColor=ffffff)](https://www.bmpi.dev/index.xml)
+[![](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg)](https://leetcode.cn/u/focused-nightingale)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -18,13 +26,5 @@
 </div>
 
 ###
-
-
----
-
-<div align="center">
-  <img alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
-</div>
-
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
