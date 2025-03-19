@@ -12,24 +12,25 @@
 
 <h2 align="left">工作经历</h2>
 
-<h4 align="left">🐲龙湖集团</h4>
+<h4 align="left">🐲[龙湖集团]</h4>
 19年硕士毕业在北京龙湖从事4年NLP算法开发，期间主要负责内部 2B端 智能客服系统的搭建。
-- [domain_keyphrase_extract](https://github.com/ningshixian/domain_keyphrase_extract)：领域关键短语抽取，帮助业务挖掘知识中的领域实体词库及其常用说法。具体实验方案的解读在[博客](https://www.yuque.com/ningshixian/dmdx5i/psdsng?singleDoc#)
-- [chinese-interrogative-recognition](https://github.com/ningshixian/chinese-interrogative-recognition)：中文疑问句识别，用于 query 理解；
-- [corpus-generalization-spider](https://github.com/ningshixian/corpus-generalization-spider)：语料泛化爬虫工具，借助爬虫和相似性度量，对标准问扩展相似问，丰富训练数据；
-- [metric_learning](https://github.com/ningshixian/metric_learning)：这个项目是为了训练 Embedding 模型，包括了度量学习和对比学习的一些实验，主要有双塔、triple loss、AMSoftmax+simcse、rdrop、Bert-whitening等。具体介绍在[博客](https://zhuanlan.zhihu.com/p/434823574)
-- [seq2seq_with_bert_unilm](https://github.com/ningshixian/seq2seq_with_bert_unilm)：以“BERT+UniLM”为基础架构，训练一个Seq2Seq模型，用于坐席辅助-话术生成。主要借鉴了苏剑林.《Seq2Seq+前缀树：检索任务新范式（以KgCLUE为例） 》[Blog post](https://spaces.ac.cn/archives/8802)
-- [learning_to_rank](https://github.com/ningshixian/learning_to_rank)：主要是排序学习LTR的一些实验，用于协助企业内搜的精排阶段。相关模型介绍在[博客](https://www.yuque.com/ningshixian/kp5efx/zhhpol)
 
-<h4 align="left">🈳空窗期</h4>
++ [domain_keyphrase_extract](https://github.com/ningshixian/domain_keyphrase_extract)：领域关键短语抽取，帮助业务挖掘知识中的领域实体词库及其常用说法。具体实验方案的解读在[博客](https://www.yuque.com/ningshixian/dmdx5i/psdsng?singleDoc#)
++ [chinese-interrogative-recognition](https://github.com/ningshixian/chinese-interrogative-recognition)：中文疑问句识别，用于 query 理解；
++ [corpus-generalization-spider](https://github.com/ningshixian/corpus-generalization-spider)：语料泛化爬虫工具，借助爬虫和相似性度量，对标准问扩展相似问，丰富训练数据；
++ [metric_learning](https://github.com/ningshixian/metric_learning)：这个项目是为了训练 Embedding 模型，包括了度量学习和对比学习的一些实验，主要有双塔、triple loss、AMSoftmax+simcse、rdrop、Bert-whitening等。具体介绍在[博客](https://zhuanlan.zhihu.com/p/434823574)
++ [seq2seq_with_bert_unilm](https://github.com/ningshixian/seq2seq_with_bert_unilm)：以“BERT+UniLM”为基础架构，训练一个Seq2Seq模型，用于坐席辅助-话术生成。主要借鉴了苏剑林.《Seq2Seq+前缀树：检索任务新范式（以KgCLUE为例） 》 [Blog post](https://spaces.ac.cn/archives/8802)
++ [learning_to_rank](https://github.com/ningshixian/learning_to_rank)：主要是排序学习LTR的一些实验，用于协助企业内搜的精排阶段。相关模型介绍在[博客](https://www.yuque.com/ningshixian/kp5efx/zhhpol)
+
+<h4 align="left">🈳[空窗期]</h4>
 23年 5 月离职后，照顾媳妇生娃，空窗期了半年。
 
-<h4 align="left">🐚贝壳找房</h4>
+<h4 align="left">🐚[贝壳找房]</h4>
 23 年 10 月加入贝壳找房，短暂做了 2 个月的 NL2SQL 研究。
 - 组内项目的目标不明确，导致工作的时候像个无头苍蝇般迷茫，干的很累和疲惫，每天沟通、对齐，却又每天都没对齐
 - 我的直觉告诉我，我并不适合这家公司，遂放弃了
 
-<h4 align="left">🚗理想汽车</h4>
+<h4 align="left">🚗[理想汽车]</h4>
 23 年 12 月跳槽理想汽车，参与内部 2C端 智能客服系统的开发，以及 AI算法原理的研究工作
 （老本行٩(•̤̀ᵕ•̤́๑)ᵒᵏᵎᵎᵎᵎ + 前沿研究）
 
@@ -47,5 +48,5 @@
 + [ddp-demo](https://github.com/owenliang/ddp-demo)<font style="color:rgb(31, 35, 40);">：探索torch集合通讯原语，支撑分布式训练理解</font>
 + [qwen2.5-0.5b-grpo](https://github.com/owenliang/qwen2.5-0.5b-grpo)<font style="color:rgb(31, 35, 40);">：基于通义千问2.5的0.5B模型，复现DeepSeek R1的顿悟时刻</font>
 
-<h2>🥋[其他]</h3>
+<h2>🥋其他</h3>
 业余时间研究的一些感兴趣的东西....
