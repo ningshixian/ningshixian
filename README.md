@@ -16,8 +16,8 @@
 19年硕士毕业在北京龙湖从事4年NLP算法开发，期间主要负责内部 2B端 智能客服系统的搭建。
 
 + [domain_keyphrase_extract](https://github.com/ningshixian/domain_keyphrase_extract)：领域关键短语抽取，帮助业务挖掘知识中的领域实体词库及其常用说法。具体实验方案的解读在[博客](https://www.yuque.com/ningshixian/dmdx5i/psdsng?singleDoc#)
-+ [chinese-interrogative-recognition](https://github.com/ningshixian/chinese-interrogative-recognition)：中文疑问句识别，用于 query 理解；
-+ [corpus-generalization-spider](https://github.com/ningshixian/corpus-generalization-spider)：语料泛化爬虫工具，借助爬虫和相似性度量，对标准问扩展相似问，丰富训练数据；
++ [chinese-interrogative-recognition](https://github.com/ningshixian/chinese-interrogative-recognition)：中文疑问句识别，用于 query 理解。相关介绍在[博客](https://www.yuque.com/ningshixian/xa7g6q/dtdizh?singleDoc#)
++ [corpus-generalization-spider](https://github.com/ningshixian/corpus-generalization-spider)：语料泛化爬虫工具，借助搜索爬虫和相似性度量，对标准问扩展相似问，丰富训练数据；
 + [metric_learning](https://github.com/ningshixian/metric_learning)：这个项目是为了训练 Embedding 模型，包括了度量学习和对比学习的一些实验，主要有双塔、triple loss、AMSoftmax+simcse、rdrop、Bert-whitening等。具体介绍在[博客](https://zhuanlan.zhihu.com/p/434823574)
 + [seq2seq_with_bert_unilm](https://github.com/ningshixian/seq2seq_with_bert_unilm)：以“BERT+UniLM”为基础架构，训练一个Seq2Seq模型，用于坐席辅助-话术生成。主要借鉴了苏剑林.《Seq2Seq+前缀树：检索任务新范式（以KgCLUE为例） 》 [Blog post](https://spaces.ac.cn/archives/8802)
 + [learning_to_rank](https://github.com/ningshixian/learning_to_rank)：主要是排序学习LTR的一些实验，用于协助企业内搜的精排阶段。相关模型介绍在[博客](https://www.yuque.com/ningshixian/kp5efx/zhhpol)
@@ -32,7 +32,7 @@
 + 我的直觉告诉我，我并不适合这家公司，遂放弃了
 
 <h4 align="left">🚗[理想汽车]</h4>
-23 年 12 月跳槽理想汽车，参与内部 2C端 智能客服系统的开发，以及 AI算法原理的研究工作
+23 年 12 月跳槽理想汽车，参与内部 2C端 智能客服系统的开发，以及大模型的相关应用研究
 （老本行٩(•̤̀ᵕ•̤́๑)ᵒᵏᵎᵎᵎᵎ + 前沿研究）
 
 + [learnpytorch](https://github.com/owenliang/learnpytorch)<font style="color:rgb(31, 35, 40);">：最早懵懵懂懂学pytorch框架，不太清楚底层原理</font>
