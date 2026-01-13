@@ -36,19 +36,30 @@
 23 年 12 月跳槽理想汽车，参与内部 2C端 智能客服系统的开发，以及大模型的相关应用研究
 （老本行٩(•̤̀ᵕ•̤́๑)ᵒᵏᵎᵎᵎᵎ + 前沿研究）
 
-+ [learnpytorch](https://github.com/owenliang/learnpytorch)<font style="color:rgb(31, 35, 40);">：最早懵懵懂懂学pytorch框架，不太清楚底层原理</font>
-+ [another-pytorch](https://github.com/owenliang/another-pytorch)<font style="color:rgb(31, 35, 40);">：深入到深度学习底层原理，复现pytorch框架，开始入门</font>
-+ [pytorch-transformer](https://github.com/owenliang/pytorch-transformer)<font style="color:rgb(31, 35, 40);">：学习transformer，成功复现翻译模型，信心增加</font>
-+ [bpe-tokenizer](https://github.com/owenliang/bpe-tokenizer)<font style="color:rgb(31, 35, 40);">：开始准备实现chatgpt效果，先复现了BPE tokenizer</font>
-+ [chatgpt](https://github.com/owenliang/chatgpt)<font style="color:rgb(31, 35, 40);">：基于前面的积累，复现了decoder-only的GPT模型</font>
-+ [qwen-dpo](https://github.com/owenliang/qwen-dpo)<font style="color:rgb(31, 35, 40);">：陆续跟进了一些阿里云Qwen大模型的技术，比如DPO训练的复现</font>
-+ [qwen-vllm](https://github.com/owenliang/qwen-vllm)<font style="color:rgb(31, 35, 40);">：基于asyncio封装推理服务，对vLLM封装的研究</font>
-+ [mnist-onnx-runtime](https://github.com/owenliang/mnist-onnx-runtime)<font style="color:rgb(31, 35, 40);">：onnx推理框架的使用研究，包括复现MoE模型</font>
-+ [nano-graphrag](https://github.com/owenliang/nano-graphrag)<font style="color:rgb(31, 35, 40);">：微软graphrag技术的源码研究</font>
-+ [vanna-chatbi](https://github.com/owenliang/vanna-chatbi)<font style="color:rgb(31, 35, 40);">：ChatBI场景的源码研究</font>
-+ [xgboost-py](https://github.com/owenliang/xgboost-py)<font style="color:rgb(31, 35, 40);">：趁热打铁，回头研究xgboost树模型理论，完成复现</font>
-+ [ddp-demo](https://github.com/owenliang/ddp-demo)<font style="color:rgb(31, 35, 40);">：探索torch集合通讯原语，支撑分布式训练理解</font>
-+ [qwen2.5-0.5b-grpo](https://github.com/owenliang/qwen2.5-0.5b-grpo)<font style="color:rgb(31, 35, 40);">：基于通义千问2.5的0.5B模型，复现DeepSeek R1的顿悟时刻</font>
++ [pytorch-learn](https://github.com/ningshixian/pytorch-learn)<font style="color:rgb(31, 35, 40);">：pytorch 框架学习笔记</font>
+
++ [llm_from_scratch](https://github.com/ningshixian/llm_from_scratch)：LLM相关算法原理的学习和实现
+    - [transformer-base](https://github.com/ningshixian/llm_from_scratch/tree/main/transformer-base)：学习 transformer 的构成组件
+    - [bpe](https://github.com/ningshixian/llm_from_scratch/tree/main/bpe)：学习和复现了BPE tokenizer
+    - [position](https://github.com/ningshixian/llm_from_scratch/tree/main/%E4%BD%8D%E7%BD%AE%E7%BC%96%E7%A0%81)：常见的位置编码实现 RoPE、YaRN
+    - [attention](https://github.com/ningshixian/llm_from_scratch/tree/main/attention)：一些常见的注意力机制 MHA/GQA/MLA
+    - [kv-cache](https://github.com/ningshixian/llm_from_scratch/tree/main/kv-cache)：学习 KV 缓存是如何用空间换时间滴.
+    - [moe](https://github.com/ningshixian/llm_from_scratch/tree/main/moe)：了解下 MOE 架构的实现
+    - [gpt](https://github.com/ningshixian/llm_from_scratch/tree/main/gpt)、[llama](https://github.com/ningshixian/llm_from_scratch/tree/main/llama)、[olmo3](https://github.com/ningshixian/llm_from_scratch/tree/main/olmo3)、[qwen3](https://github.com/ningshixian/llm_from_scratch/tree/main/qwen3)：<font style="color:rgb(31, 35, 40);">复现一些 decoder-only的 GPT 类热门模型</font>
+    - [SFT](https://github.com/ningshixian/llm_from_scratch/tree/main/sft)：包括指令微调、LoRA微调.....
+    - [DPO](https://github.com/ningshixian/llm_from_scratch/tree/main/dpo)、[GRPO](https://github.com/ningshixian/llm_from_scratch/tree/main/grpo)、[KTO](https://github.com/ningshixian/llm_from_scratch/tree/main/kto)、[PPO](https://github.com/ningshixian/llm_from_scratch/tree/main/ppo)、[reinforce++](https://github.com/ningshixian/llm_from_scratch/tree/main/reinforce%2B%2B)
+    - [QwenGRPO.ipynb](https://github.com/ningshixian/llm_from_scratch/blob/main/grpo/QwenGRPO.ipynb)<font style="color:rgb(31, 35, 40);">：基于通义千问2.5的0.5B模型，复现DeepSeek R1的顿悟时刻</font>
+    - [minimind-LLM全阶段极简复现](https://github.com/ningshixian/llm_from_scratch/tree/main/%23minimind-LLM%E5%85%A8%E9%98%B6%E6%AE%B5%E6%9E%81%E7%AE%80%E5%A4%8D%E7%8E%B0%20)**<font style="color:rgb(31, 35, 40);">：</font>**<font style="color:rgb(31, 35, 40);">很 nice 的一个项目，实现了一个极简结构的 LLM，以及全阶段的训练过程：数据集清洗、预训练(Pretrain)、监督微调(SFT)、LoRA微调、直接偏好优化(DPO)、强化学习训练(RLAIF: PPO/GRPO等)</font>
++ 对话系统相关
+    - [UNIQA](https://github.com/ningshixian/UNIQA)：参考[haystack](https://github.com/deepset-ai/haystack)框架弄的一个 RAG 项目，主要是学习不同模块的设计、代码实现等；
+    - [dialogue-projects](https://github.com/ningshixian/dialogue-projects)：对话系统组件的简易实现
+    - [ai_semantic-retrieval-framework](https://github.com/ningshixian/ai_semantic-retrieval-framework)：从实际项目抽象出来的一个通用语义检索框架，支持语义检索、关键词检索、混合检索，以及基本的数据工程和 API。
+    - [fastapi-semantic-retrieval](https://github.com/ningshixian/fastapi-semantic-retrieval)：从实际项目脱敏得到的一个较早版本的框架，项目结构没做调整；
++ [x-r1-learn](https://github.com/ningshixian/x-r1-learn)：主要是对 GRPO KL variants 的实验
++ [event-cluster-discovery](https://github.com/ningshixian/event-cluster-discovery)：实现了帖子聚类+新事件发现，内部有个舆情监控的任务
++ [rag-projects](https://github.com/ningshixian/rag-projects)：RAG 项目实战代码汇总，博客记录在[此处](https://www.yuque.com/ningshixian/xa7g6q/nyqktwupwmffl5hc?singleDoc#)。包括 datawhale 组织的 RAG技术全栈指南[All-in-RAG](https://github.com/datawhalechina/all-in-rag).....
++ [agent-projects](https://github.com/ningshixian/agent-projects)：收集了较流行的一些 Agent 开源框架，还有 datawhale 组织的从零开始的智能体原理与实践教程 [hello-agents](https://github.com/datawhalechina/hello-agents)，还有<font style="color:rgb(31, 35, 40);">基于 haystack 实现的一个</font><u><font style="color:rgb(31, 35, 40);">多智能体 demo</font></u><font style="color:rgb(31, 35, 40);">.......</font>
++ [social_kol_review](https://github.com/ningshixian/social_kol_review)：KOL 风格迁移与因果评论实现的代码
 
 <h2>🥋其他</h3>
 业余时间研究的一些感兴趣的东西....
