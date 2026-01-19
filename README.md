@@ -45,12 +45,12 @@
     - 混合检索（emb+bm25）<font style="color:rgb(31, 35, 40);">：传统BM25与现代向量检索的结合 </font>[abstracted_hybrid_retriever.py](https://github.com/ningshixian/ai_semantic-retrieval-framework/blob/main/plugins/retrievers/abstracted_hybrid_retriever.py)
     - Embedding微调：基于 SBERT 和对比学习的文本嵌入模型训练 [train_embedding.py](https://github.com/ningshixian/sentence-embedding/blob/main/sbert/unified_sentence_transformer_trainer.py)
     - Faiss 向量检索库：[faiss_tutorial.ipynb](https://github.com/ningshixian/ai_semantic-retrieval-framework/blob/main/plugins/retrievers/faiss_tutorial.ipynb)
-+ ---
+
 + [x-r1-learn](https://github.com/ningshixian/x-r1-learn)：主要是对 GRPO KL variants 的实验
 + [event-cluster-discovery](https://github.com/ningshixian/event-cluster-discovery)：实现了帖子聚类+新事件发现，支持内部的舆情监控项目；
 + [social_kol_review](https://github.com/ningshixian/social_kol_review)：文本风格迁移与因果评论实现，实现一个 AIKOL；
 + [**rag-projects**](https://github.com/ningshixian/rag-projects)**：**从零实现RAG课程（[datawhale/All-in-RAG](https://github.com/datawhalechina/all-in-rag)）的学习笔记和代码，博客记录在[此处](https://www.yuque.com/ningshixian/xa7g6q/nyqktwupwmffl5hc?singleDoc#)。
-+ [**agent-projects**](https://github.com/ningshixian/agent-projects)**：**主流 Agent 开源框架的学习代码（[/2025exercises](https://github.com/ningshixian/agent-projects/tree/main/2025exercises)），以及一些学习资料（课程[datawhale/hello-agents](https://github.com/datawhalechina/hello-agents)、<font style="color:rgb(31, 35, 40);">OpenAI ChatKit 示例代码、smolAgents 代码）...还有基于 haystack 实现的一个</font><u><font style="color:rgb(31, 35, 40);">多智能体 demo</font></u><font style="color:rgb(31, 35, 40);">。</font>
++ [**agent-projects**](https://github.com/ningshixian/agent-projects)**：**主流 Agent 开源框架的学习代码（[/2025exercises](https://github.com/ningshixian/agent-projects/tree/main/2025exercises)），以及一些学习资料（课程[datawhale/hello-agents](https://github.com/datawhalechina/hello-agents)、OpenAI ChatKit 示例代码、smolAgents 代码）...还有基于 haystack 实现的一个多智能体 demo → [ssc_swarm_ultra.py](https://github.com/ningshixian/agent-projects/blob/main/2025exercises/08-haystack/ssc_swarm_ultra.py)。
 + [**llm_from_scratch**](https://github.com/ningshixian/llm_from_scratch)**：**LLM 算法原理学习和工程实验仓库。包括 Transformer 的基本组件实现、KV 缓存实现、<font style="color:rgb(31, 35, 40);">GPT 类主流大模型架构、minimind-LLM 全阶段极简复现、Post-Traning（SFT、LoRA、DPO、GRPO...）、基于bitsbytes的模型量化等</font>
 
 <h2>🥋其他</h3>
