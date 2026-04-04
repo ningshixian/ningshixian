@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.yuque.com/ningshixian/"><b>📚 个人博客</b></a> • 
-  <a href="https://github.com/ningshixian1994"><b>📂 GitHub</b></a> • 
+  <a href="https://www.yuque.com/ningshixian1994/"><b>📚 个人博客</b></a> • 
+  <a href="https://github.com/ningshixian"><b>📂 GitHub</b></a> • 
 </p>
 
 ---
